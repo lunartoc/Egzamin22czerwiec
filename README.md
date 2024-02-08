@@ -5,6 +5,6 @@ Metodologia- HTML(5) + CSS
 Program - VSC(Visual Studio Code)
 Źródło - https://arkusze.pl/zawodowy/inf03-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf
 Data ukończenia - 2024
-Adres Strony - 
+Adres Strony - https://lunartoc.github.io/Egzamin22czerwiec/
 Deploy - gałąź modyfikowania
 Pliki i foldery - img-ryba1.jpg 
